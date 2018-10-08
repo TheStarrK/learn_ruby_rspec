@@ -1,4 +1,22 @@
 Test First Ruby -- RSpec 3 Edition
+
+THP Semaine 2, Jour 1
+
+Découverte de TDD et RSpec
+
+Repo de Tony Kino, @Tony sur Slack.
+
+Bonne correction !
+
+
+
+
+
+
+
+
+
+
 ==========
 
 ### Set up instructions
