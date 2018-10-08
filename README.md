@@ -1,4 +1,3 @@
-Test First Ruby -- RSpec 3 Edition
 
 THP Semaine 2, Jour 1
 
