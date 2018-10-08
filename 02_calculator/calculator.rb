@@ -19,5 +19,7 @@ def power(n, exp)
 end
 
 def factorial(nb)
+  # Ici j'utilise une condition ternaire, cad que je réduit une condition if ... else en 1 seule ligne
+  # Syntaxe : condition à tester ? Si oui : Si non 
   return nb == 0 ? 1: nb * factorial(nb-1)
 end
